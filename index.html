@@ -55,9 +55,9 @@ section{padding:28px 0 4px}section h2{font-size:clamp(28px,3.4vw,38px);margin-bo
 .card ul{margin:6px 0 0;padding-left:18px}.card li{margin:3px 0}
 .btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:48px;padding:0 28px;border:2px solid var(--mw-primary);border-radius:0;background:#fff;color:var(--mw-primary);font:600 14px var(--mw-font-body);text-transform:uppercase;letter-spacing:.1em;cursor:pointer}
 .btn:hover{background:var(--mw-primary);color:#fafafa}.btn:focus-visible{outline:3px solid #05668D;outline-offset:2px}
-.sharebar{position:fixed;left:0;right:0;bottom:0;background:rgba(251,248,243,.94);backdrop-filter:blur(6px);border-top:1px solid #E5E0D8;padding:10px 20px calc(10px + env(safe-area-inset-bottom));display:flex;justify-content:center;z-index:5}
+.sharebar{display:flex;justify-content:center;padding:40px 20px 0}
 .sharebar .btn{width:100%;max-width:360px}
-footer{text-align:center;padding:40px 20px 120px;font-size:14px}
+footer{text-align:center;padding:12px 20px calc(16px + env(safe-area-inset-bottom));font-size:14px}
 footer a{color:#737373;text-decoration:none;display:inline-block;padding:12px 6px}footer a:hover{color:#0a0a0a;text-decoration:underline}
 .fresh{padding:28px 0 0}.fh{display:flex;align-items:center;gap:12px;margin-bottom:12px}.fh h2{margin:0}
 .upd{font-size:13px;color:#525252;border:1px solid #E5E0D8;border-radius:999px;padding:2px 10px;background:#fff}
@@ -79,8 +79,8 @@ footer a{color:#737373;text-decoration:none;display:inline-block;padding:12px 6p
 <section><h2>Bits In Progress</h2><div class="grid"><article class="card mw-hover" tabindex="0"><div class="ch"><h3>Divorce Bit</h3><span class="st up">Punched Up</span></div></article><article class="card mw-hover" tabindex="0"><div class="ch"><h3>Obituary Bit</h3><span class="st up">Punched Up</span></div></article><article class="card mw-hover" tabindex="0"><div class="ch"><h3>Line-Cutting Bit</h3><span class="st raw">Raw Notes</span></div></article><article class="card mw-hover" tabindex="0"><div class="ch"><h3>Expecting Bit</h3><span class="st raw">Raw Notes</span></div></article><article class="card mw-hover" tabindex="0"><div class="ch"><h3>Marriage Bit</h3><span class="st raw">Raw Notes</span></div></article><article class="card mw-hover" tabindex="0"><div class="ch"><h3>Pride Bit</h3><span class="st raw">Raw Notes</span></div></article><article class="card mw-hover" tabindex="0"><div class="ch"><h3>Chivalry Bit</h3><span class="st raw">Raw Notes</span></div></article><article class="card mw-hover" tabindex="0"><div class="ch"><h3>Family Bit</h3><span class="st raw">Raw Notes</span></div></article></div></section>
 <section><h2>Recently Done</h2><div class="grid"><article class="card mw-hover" tabindex="0"><div class="ch"><h3>Card Lines For A Family Gift</h3><span class="st dn">Done Sep 30</span></div></article></div></section>
 </main>
-<footer><a class="mw-hover" href="https://maxweberman.com">Built by Max Weberman</a></footer>
 <div class="sharebar"><button class="btn mw-hover" id="sh" type="button"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="square" aria-hidden="true"><path d="M12 3v13M7 8l5-5 5 5M5 14v7h14v-7"/></svg><span>Share</span></button></div>
+<footer><a class="mw-hover" href="https://maxweberman.com">Built by Max Weberman</a></footer>
 <script>
 const X=document.getElementById('ideas'),Dt=document.getElementById('dots');[...X.children].forEach(()=>Dt.appendChild(document.createElement('i')));
 function cur(){return Math.round(X.scrollLeft/(X.children[0].offsetWidth+12))}
