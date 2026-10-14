@@ -1,0 +1,30 @@
+{
+ "agent": "jokes",
+ "decks": [
+  {
+   "id": "jokes-dashboard-and-premise-picks",
+   "name": "Jokes Premise Picks Deck",
+   "url": "https://webermanapps.github.io/style-swipe/?date=jokes-dashboard-and-premise-picks",
+   "total": 20,
+   "topic": "jokes",
+   "blurb": "Premises, page style and set list, 20 cards"
+  },
+  {
+   "id": "jokes-ready-1",
+   "name": "Jokes Dashboard Deck",
+   "url": "https://webermanapps.github.io/style-swipe/jokes-ready-1-fdl26o/",
+   "total": 20,
+   "topic": "jokes",
+   "blurb": "Dashboard look and layout, 20 cards"
+  },
+  {
+   "id": "jokes-ready-2",
+   "name": "Jokes Writing Tools Deck",
+   "url": "https://webermanapps.github.io/style-swipe/jokes-ready-2-5j7uyu/",
+   "total": 20,
+   "topic": "jokes",
+   "blurb": "Bit and set tools, 20 cards"
+  }
+ ],
+ "updated": "2026-10-14T19:34:07+07:00"
+}
