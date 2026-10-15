@@ -2,29 +2,52 @@
  "agent": "jokes",
  "decks": [
   {
-   "id": "jokes-dashboard-and-premise-picks",
-   "name": "Jokes Premise Picks Deck",
-   "url": "https://webermanapps.github.io/style-swipe/?date=jokes-dashboard-and-premise-picks",
+   "id": "jokes-premise-picks-deck",
+   "name": "Premise Picks Deck",
+   "url": "https://webermanapps.github.io/style-swipe/jokes-premise-picks-deck-0gfsqz/",
    "total": 20,
    "topic": "jokes",
-   "blurb": "Premises, page style and set list, 20 cards"
+   "source": "/workspace/jokes-dashboard/deck-drafts/premises.ready.json",
+   "added": "2026-10-15T23:52:39+07:00",
+   "tag": "Premises",
+   "blurb": "20 cards, ready now"
+  },
+  {
+   "id": "jokes-bits-to-punch-up-deck",
+   "name": "Bits To Punch Up Deck",
+   "url": "https://webermanapps.github.io/style-swipe/jokes-bits-to-punch-up-deck-fsbzh6/",
+   "total": 20,
+   "topic": "jokes",
+   "source": "/workspace/jokes-dashboard/deck-drafts/bits.ready.json",
+   "added": "2026-10-15T23:52:40+07:00",
+   "tag": "Bits",
+   "blurb": "20 cards, ready now"
+  },
+  {
+   "id": "jokes-set-list-deck",
+   "name": "Set List Deck",
+   "url": "https://webermanapps.github.io/style-swipe/jokes-set-list-deck-gcpnud/",
+   "total": 20,
+   "topic": "jokes",
+   "source": "/workspace/jokes-dashboard/deck-drafts/setlist.ready.json",
+   "added": "2026-10-15T23:52:40+07:00",
+   "tag": "Set List",
+   "blurb": "20 cards, ready now"
+  }
+ ],
+ "updated": "2026-10-15T23:52:40+07:00",
+ "retired": [
+  {
+   "id": "jokes-dashboard-and-premise-picks",
+   "why": "AIR review 23:13: layout decks, rebuilt with Jokes content"
   },
   {
    "id": "jokes-ready-1",
-   "name": "Jokes Dashboard Deck",
-   "url": "https://webermanapps.github.io/style-swipe/jokes-ready-1-fdl26o/",
-   "total": 20,
-   "topic": "jokes",
-   "blurb": "Dashboard look and layout, 20 cards"
+   "why": "AIR review 23:13: layout decks, rebuilt with Jokes content"
   },
   {
    "id": "jokes-ready-2",
-   "name": "Jokes Writing Tools Deck",
-   "url": "https://webermanapps.github.io/style-swipe/jokes-ready-2-5j7uyu/",
-   "total": 20,
-   "topic": "jokes",
-   "blurb": "Bit and set tools, 20 cards"
+   "why": "AIR review 23:13: layout decks, rebuilt with Jokes content"
   }
- ],
- "updated": "2026-10-14T19:34:07+07:00"
+ ]
 }
