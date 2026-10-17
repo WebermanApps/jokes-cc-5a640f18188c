@@ -78,9 +78,49 @@
    "answered": 0,
    "split_from": "jokes-set-list-deck",
    "blurb": "10 cards, ready now"
+  },
+  {
+   "id": "jokes-sets-deck",
+   "name": "Sets Deck",
+   "url": "https://webermanapps.github.io/style-swipe/jokes-sets-deck-exwnfc/",
+   "total": 10,
+   "topic": "jokes",
+   "added": "2026-10-17T09:46:23+07:00",
+   "tag": "Sets",
+   "blurb": "10 cards, ready now"
+  },
+  {
+   "id": "jokes-sets-deck-bit-ratings",
+   "name": "Bit Ratings Deck",
+   "url": "https://webermanapps.github.io/style-swipe/jokes-sets-deck-bit-ratings-mcclok/",
+   "total": 10,
+   "topic": "jokes",
+   "added": "2026-10-17T09:46:37+07:00",
+   "tag": "Sets",
+   "blurb": "10 cards, ready now"
+  },
+  {
+   "id": "jokes-writing-and-library-deck",
+   "name": "Writing And Library Deck",
+   "url": "https://webermanapps.github.io/style-swipe/jokes-writing-and-library-deck-enjhuc/",
+   "total": 10,
+   "topic": "jokes",
+   "added": "2026-10-17T09:46:51+07:00",
+   "tag": "Writing",
+   "blurb": "10 cards, ready now"
+  },
+  {
+   "id": "jokes-library-deck",
+   "name": "Library Deck",
+   "url": "https://webermanapps.github.io/style-swipe/jokes-library-deck-qdqkel/",
+   "total": 10,
+   "topic": "jokes",
+   "added": "2026-10-17T09:47:05+07:00",
+   "tag": "Library",
+   "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-17T08:05:35+07:00",
+ "updated": "2026-10-17T09:55:08+07:00",
  "retired": [
   {
    "id": "jokes-dashboard-and-premise-picks",
@@ -151,5 +191,6 @@
  "cap": 10,
  "cap_note": "R86 (Max Oct 17 2026 07:50 ICT): every shelf shows up to 10 decks (pinned included), 10 picks per deck; in-progress first, done last (kit deck-shelf.js sort)",
  "held": [],
- "queued": []
+ "queued": [],
+ "done": []
 }
