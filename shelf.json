@@ -1,5 +1,7 @@
 {
  "agent": "jokes",
+ "agent_label": "writer",
+ "agent_note": "Display label is writer (board renamed Oct 16). Key stays jokes: kit deck-shelf.js stats lookup (deck-counts.json) and style-swipe submit.js deck routing use agent jokes.",
  "decks": [
   {
    "id": "jokes-premise-picks-deck-next-to-write",

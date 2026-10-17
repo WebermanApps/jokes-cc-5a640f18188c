@@ -1,9 +1,9 @@
-{"agent":"jokes",
+{"agent":"jokes","agent_label":"writer",
 "categories":[
 {"id":"dashboard","label":"Dashboard Deck","blurb":"Board layout, sections and cards"},
 {"id":"page-style","label":"Joke Page Style","blurb":"How a bit page looks"},
 {"id":"set-list","label":"Set List and Bit Tools","blurb":"Set order, timing and bit tools"},
 {"id":"premises","label":"Premise Picks","blurb":"Pick neutral one-line premises"}],
 "unfinished":[],
-"pinned":[{"name":"Jokes: Dashboard, Page Style, Set List and Premise Picks","url":"https://webermanapps.github.io/style-swipe/?date=jokes-dashboard-and-premise-picks","answered":0,"total":20}],
+"pinned":[{"name":"Writer: Dashboard, Page Style, Set List and Premise Picks","url":"https://webermanapps.github.io/style-swipe/?date=jokes-dashboard-and-premise-picks","answered":0,"total":20}],
 "ready":null}
