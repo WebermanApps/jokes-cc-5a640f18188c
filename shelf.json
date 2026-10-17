@@ -2,40 +2,85 @@
  "agent": "jokes",
  "decks": [
   {
-   "id": "jokes-premise-picks-deck",
-   "name": "Premise Picks Deck",
-   "url": "https://webermanapps.github.io/style-swipe/jokes-premise-picks-deck-0gfsqz/",
-   "total": 20,
+   "id": "jokes-premise-picks-deck-next-to-write",
+   "name": "Premise Picks: Next To Write",
+   "url": "https://webermanapps.github.io/style-swipe/jokes-premise-picks-deck-next-to-write-cbcesz/",
+   "total": 10,
    "topic": "jokes",
    "source": "/workspace/jokes-dashboard/deck-drafts/premises.ready.json",
-   "added": "2026-10-15T23:52:39+07:00",
+   "added": "2026-10-17T08:05:35+07:00",
    "tag": "Premises",
-   "blurb": "20 cards, ready now"
+   "answered": 0,
+   "split_from": "jokes-premise-picks-deck",
+   "blurb": "10 cards, ready now"
   },
   {
-   "id": "jokes-bits-to-punch-up-deck",
-   "name": "Bits To Punch Up Deck",
-   "url": "https://webermanapps.github.io/style-swipe/jokes-bits-to-punch-up-deck-fsbzh6/",
-   "total": 20,
+   "id": "jokes-premise-picks-deck-more-premises",
+   "name": "Premise Picks: More Premises",
+   "url": "https://webermanapps.github.io/style-swipe/jokes-premise-picks-deck-more-premises-id0ami/",
+   "total": 10,
+   "topic": "jokes",
+   "source": "/workspace/jokes-dashboard/deck-drafts/premises.ready.json",
+   "added": "2026-10-17T08:05:35+07:00",
+   "tag": "Premises",
+   "answered": 0,
+   "split_from": "jokes-premise-picks-deck",
+   "blurb": "10 cards, ready now"
+  },
+  {
+   "id": "jokes-bits-to-punch-up-deck-line-cutting-chivalry-pride",
+   "name": "Punch-Ups: Line-Cutting, Chivalry & Pride",
+   "url": "https://webermanapps.github.io/style-swipe/jokes-bits-to-punch-up-deck-line-cutting-chivalry-pride-n3aeec/",
+   "total": 10,
    "topic": "jokes",
    "source": "/workspace/jokes-dashboard/deck-drafts/bits.ready.json",
-   "added": "2026-10-15T23:52:40+07:00",
+   "added": "2026-10-17T08:05:35+07:00",
    "tag": "Bits",
-   "blurb": "20 cards, ready now"
+   "answered": 0,
+   "split_from": "jokes-bits-to-punch-up-deck",
+   "blurb": "10 cards, ready now"
   },
   {
-   "id": "jokes-set-list-deck",
-   "name": "Set List Deck",
-   "url": "https://webermanapps.github.io/style-swipe/jokes-set-list-deck-gcpnud/",
-   "total": 20,
+   "id": "jokes-bits-to-punch-up-deck-family-marriage-expecting",
+   "name": "Punch-Ups: Family, Marriage & Expecting",
+   "url": "https://webermanapps.github.io/style-swipe/jokes-bits-to-punch-up-deck-family-marriage-expecting-wl6d0c/",
+   "total": 10,
+   "topic": "jokes",
+   "source": "/workspace/jokes-dashboard/deck-drafts/bits.ready.json",
+   "added": "2026-10-17T08:05:35+07:00",
+   "tag": "Bits",
+   "answered": 0,
+   "split_from": "jokes-bits-to-punch-up-deck",
+   "blurb": "10 cards, ready now"
+  },
+  {
+   "id": "jokes-set-list-deck-openers-order",
+   "name": "Set List: Openers & Order",
+   "url": "https://webermanapps.github.io/style-swipe/jokes-set-list-deck-openers-order-fxlqyj/",
+   "total": 10,
    "topic": "jokes",
    "source": "/workspace/jokes-dashboard/deck-drafts/setlist.ready.json",
-   "added": "2026-10-15T23:52:40+07:00",
+   "added": "2026-10-17T08:05:35+07:00",
    "tag": "Set List",
-   "blurb": "20 cards, ready now"
+   "answered": 0,
+   "split_from": "jokes-set-list-deck",
+   "blurb": "10 cards, ready now"
+  },
+  {
+   "id": "jokes-set-list-deck-closers-order",
+   "name": "Set List: Closers & Order",
+   "url": "https://webermanapps.github.io/style-swipe/jokes-set-list-deck-closers-order-o67akb/",
+   "total": 10,
+   "topic": "jokes",
+   "source": "/workspace/jokes-dashboard/deck-drafts/setlist.ready.json",
+   "added": "2026-10-17T08:05:35+07:00",
+   "tag": "Set List",
+   "answered": 0,
+   "split_from": "jokes-set-list-deck",
+   "blurb": "10 cards, ready now"
   }
  ],
- "updated": "2026-10-15T23:52:40+07:00",
+ "updated": "2026-10-17T08:05:35+07:00",
  "retired": [
   {
    "id": "jokes-dashboard-and-premise-picks",
@@ -49,5 +94,62 @@
    "id": "jokes-ready-2",
    "why": "AIR review 23:13: layout decks, rebuilt with Jokes content"
   }
- ]
+ ],
+ "unlisted": [
+  {
+   "id": "jokes-premise-picks-deck",
+   "name": "Premise Picks Deck",
+   "url": "https://webermanapps.github.io/style-swipe/jokes-premise-picks-deck-0gfsqz/",
+   "total": 20,
+   "topic": "jokes",
+   "source": "/workspace/jokes-dashboard/deck-drafts/premises.ready.json",
+   "added": "2026-10-15T23:52:39+07:00",
+   "tag": "Premises",
+   "blurb": "20 cards, ready now",
+   "unlisted_at": "2026-10-17T08:05:35+07:00",
+   "split_into": [
+    "jokes-premise-picks-deck-next-to-write",
+    "jokes-premise-picks-deck-more-premises"
+   ],
+   "note": "R86 (Max Oct 17 2026 07:50 ICT): unanswered 20-pick deck split into two 10-pick decks; original unlisted (page, file and any votes kept)"
+  },
+  {
+   "id": "jokes-bits-to-punch-up-deck",
+   "name": "Bits To Punch Up Deck",
+   "url": "https://webermanapps.github.io/style-swipe/jokes-bits-to-punch-up-deck-fsbzh6/",
+   "total": 20,
+   "topic": "jokes",
+   "source": "/workspace/jokes-dashboard/deck-drafts/bits.ready.json",
+   "added": "2026-10-15T23:52:40+07:00",
+   "tag": "Bits",
+   "blurb": "20 cards, ready now",
+   "unlisted_at": "2026-10-17T08:05:35+07:00",
+   "split_into": [
+    "jokes-bits-to-punch-up-deck-line-cutting-chivalry-pride",
+    "jokes-bits-to-punch-up-deck-family-marriage-expecting"
+   ],
+   "note": "R86 (Max Oct 17 2026 07:50 ICT): unanswered 20-pick deck split into two 10-pick decks; original unlisted (page, file and any votes kept)"
+  },
+  {
+   "id": "jokes-set-list-deck",
+   "name": "Set List Deck",
+   "url": "https://webermanapps.github.io/style-swipe/jokes-set-list-deck-gcpnud/",
+   "total": 20,
+   "topic": "jokes",
+   "source": "/workspace/jokes-dashboard/deck-drafts/setlist.ready.json",
+   "added": "2026-10-15T23:52:40+07:00",
+   "tag": "Set List",
+   "blurb": "20 cards, ready now",
+   "unlisted_at": "2026-10-17T08:05:35+07:00",
+   "split_into": [
+    "jokes-set-list-deck-openers-order",
+    "jokes-set-list-deck-closers-order"
+   ],
+   "note": "R86 (Max Oct 17 2026 07:50 ICT): unanswered 20-pick deck split into two 10-pick decks; original unlisted (page, file and any votes kept)"
+  }
+ ],
+ "cap": 10,
+ "cap_note": "R86 (Max Oct 17 2026 07:50 ICT): every shelf shows up to 10 decks (pinned included), 10 picks per deck; in-progress first, done last (kit deck-shelf.js sort)",
+ "held": [],
+ "queued": []
 }
